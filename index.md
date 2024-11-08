@@ -3,3 +3,6 @@
 ``` java script
 var newVar = "How are you doing?";
 ```
+- [x] Go outside
+- [x] Put on sunglasses
+- [x] Become a cool guy
